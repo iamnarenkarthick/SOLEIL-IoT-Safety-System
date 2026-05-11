@@ -49,13 +49,13 @@ All data is sent to the Blynk IoT dashboard for remote monitoring.
 
 ## 📸 Project Images
 
-(Add your images here)
+https://github.com/iamnarenkarthick/SOLEIL-IoT-Safety-System/blob/main/images/hardware_setup.jpg
 
 ---
 
 ## 🔌 Circuit Diagram
 
-(Add diagram here)
+https://github.com/iamnarenkarthick/SOLEIL-IoT-Safety-System/blob/main/circuit/wiring_diagram.png
 
 ---
 
